@@ -18,7 +18,7 @@ Para la instalación de este IDE se utilizarán los paquetes Snap. Esto se hará
 
 <p align="center">
 
-<img src="https://github.com/jdabrante/CLASES/blob/63fa2dd4049691b656dbe12050bf90f24b7ceabf/1DAW/ENTORNOS/TEMA1/INFORMES/INFORME_4_NETBEANS.12/NB12.1.png" width="500" title="Figura 1">
+<img src="https://github.com/jdabrante/CLASES/blob/df0be25f4bbfea222d85f21d581109a5373c4be3/1DAW/ENTORNOS/TEMA1/INFORMES/INFORME_5_INTELIJ/INTELIJ.1.png" width="500" title="Figura 1">
 
 </p>
 
@@ -27,23 +27,14 @@ Para la instalación de este IDE se utilizarán los paquetes Snap. Esto se hará
 
 <p align="justify">
 
-Una vez terminada la instalación aparecerá el siguiente mensaje:
+Una vez terminada la instalación (Fig.2) podremos iniciar directamente el IDE buscando el programa a través del buscador del SO (Fig.3).
   
 </br>
 </br>
 
 <p align="center">
 
-<img src="https://github.com/jdabrante/CLASES/blob/63fa2dd4049691b656dbe12050bf90f24b7ceabf/1DAW/ENTORNOS/TEMA1/INFORMES/INFORME_4_NETBEANS.12/NB12.3.png" width="500" title="Figura 2">
-
-</p>
-
-</br>
-</br>
-
-<p align="justify">
-
-Una vez instalado se podrá ejecutar introduciendo la palabra Netbeans dentro del terminal:
+<img src="https://github.com/jdabrante/CLASES/blob/df0be25f4bbfea222d85f21d581109a5373c4be3/1DAW/ENTORNOS/TEMA1/INFORMES/INFORME_5_INTELIJ/INTELIJ.3.png" width="500" title="Figura 2">
 
 </p>
 
@@ -52,17 +43,6 @@ Una vez instalado se podrá ejecutar introduciendo la palabra Netbeans dentro de
 
 <p align="center">
 
-<img src="https://github.com/jdabrante/CLASES/blob/63fa2dd4049691b656dbe12050bf90f24b7ceabf/1DAW/ENTORNOS/TEMA1/INFORMES/INFORME_4_NETBEANS.12/NB12.4.png" width="500" title="Figura 3">
-
-</p>
-  
-</br>
-</br>
-
-</p>
-
-<p align="center">
-
-<img src="https://github.com/jdabrante/CLASES/blob/63fa2dd4049691b656dbe12050bf90f24b7ceabf/1DAW/ENTORNOS/TEMA1/INFORMES/INFORME_4_NETBEANS.12/NB12.5.png" width="500" title="Figura 4">
+<img src="https://github.com/jdabrante/CLASES/blob/df0be25f4bbfea222d85f21d581109a5373c4be3/1DAW/ENTORNOS/TEMA1/INFORMES/INFORME_5_INTELIJ/INTELIJ.4.png" width="500" title="Figura 3">
 
 </p>
