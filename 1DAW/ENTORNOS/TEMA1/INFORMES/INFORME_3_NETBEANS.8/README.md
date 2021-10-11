@@ -4,7 +4,7 @@
 
 <p align="justify">
 
-Para la instalación de este IDE habrá que dirigirse al siguiente enlace (<>) y descargar la versión jdk-8u111-nb-8_2-linux-x64.sh. (Fig.1)
+Para la instalación de este IDE habrá que dirigirse al siguiente enlace (<https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html>) y descargar la versión jdk-8u111-nb-8_2-linux-x64.sh. (Fig.1)
   
 </p>
   
