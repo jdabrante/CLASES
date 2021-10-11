@@ -1,5 +1,9 @@
 # Netbeans 12
 
+NetBeans es un IDE muy utilizado entre los desarrolladores de aplicaciones con Java. Así
+pues este IDE trabaja a través de un conjunto de componentes de software modulares
+llamados módulos.
+
 ## Instalación 
 
 <p align="justify">
