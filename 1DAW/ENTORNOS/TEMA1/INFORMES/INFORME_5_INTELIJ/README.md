@@ -1,10 +1,14 @@
-# Itelij
+# Itellij
+
+Intellij es un IDE de código abierto para el desarrollo de aplicaciones Java. Su mantenimiento es llevado a cabo por Jetbrains y es uno de los IDE 's más utilizados por los desarrolladores de Java (70%).
+
+
 
 ## Instalación 
 
 <p align="justify">
 
-Para la instalación de este IDE se utilizarán los paquetes Snap. Esto se hará a través del comando (Fig.1): 
+Para la instalación de este IDE se utilizarán los paquetes Snap (paquetes de software universales prediseñados que se envían con las bibliotecas y dependencias requeridas por el paquete de software). Esto se hará a través del comando (Fig.1): 
   
 </p>
  
