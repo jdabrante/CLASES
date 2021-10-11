@@ -11,7 +11,7 @@ Para la instalación de este IDE se utilizarán los paquetes Snap. Así pues par
 </br>
 </br>
 
-**<p align="center"> sudo snap install --classic code --classic </p>**
+**<p align="center"> sudo snap install --classic code </p>**
 
 </br>
 </br>
