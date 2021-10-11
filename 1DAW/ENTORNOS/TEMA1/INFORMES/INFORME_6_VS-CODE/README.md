@@ -1,5 +1,6 @@
 # VS-CODE
 
+Visual Studio Code (VS-CODE) es un IDE multiplataforma, por lo que puede ser utilizado tanto en Linux, Windows como en macOS. Para la escritura se basa en Electron y NodeJS y se ejecuta en el motor de diseño Blink
 ## Instalación 
 
 <p align="justify">
