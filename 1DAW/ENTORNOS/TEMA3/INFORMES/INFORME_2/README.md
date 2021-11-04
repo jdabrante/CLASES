@@ -11,6 +11,8 @@
 
 **<p align="center">  git config --list</p>**
 
+<p align="center"><img src="https://github.com/jdabrante/CLASES/blob/55709ec32c1f5cef9cdb467a072112b197b96a02/1DAW/ENTORNOS/TEMA3/INFORMES/IMAGENES/1.png" title="Figura 1"></p>
+
 ## 1.2 CREACIÓN DE UN REPOSITORIO
 
 <p align="justify">Ahora bien , para la creación de un repositorio será tan sencillo como utilizar el siguiente comando , siendo “dpl” el nombre del repositorio que se desea crear:</p>
@@ -22,6 +24,8 @@
 **<p align="center"> git init</p>**
 
 **<p align="center"> ls -la</p>**
+
+<p align="center"><img src="https://github.com/jdabrante/CLASES/blob/55709ec32c1f5cef9cdb467a072112b197b96a02/1DAW/ENTORNOS/TEMA3/INFORMES/IMAGENES/2.png" title="Figura 2"></p>
 
 ## 1.3 COMPROBAR EL ESTADO DEL REPOSITORIO
 
@@ -41,16 +45,25 @@
 
 **<p align="center">*Ctrl+D* → Para cerrar</p>**
 
+<p align="center"><img src="https://github.com/jdabrante/CLASES/blob/55709ec32c1f5cef9cdb467a072112b197b96a02/1DAW/ENTORNOS/TEMA3/INFORMES/IMAGENES/3.png" title="Figura 3"></p>
+
+
 <p align="justify">Hecho esto comprobaremos nuevamente el estado del repositorio, añadiremos el indice.txt y se volverá a comprobar el estado. Para añadir el indice.txt:
 </p>
 
 **<p align="center">git add indice.txt</p>**
+
+<p align="center"><img src="https://github.com/jdabrante/CLASES/blob/55709ec32c1f5cef9cdb467a072112b197b96a02/1DAW/ENTORNOS/TEMA3/INFORMES/IMAGENES/4.png" title="Figura 4"></p>
+
 
 ## 1.4 REALIZAR COMMIT'S
 
 <p align="justify">En este caso se realizará un commit con el siguiente mensaje y se comprobará el estado nuevamente:</p>
 
 **<p align="center">git commit -m "Añadido índice de la asignatura DPL."</p>**
+
+
+<p align="center"><img src="https://github.com/jdabrante/CLASES/blob/55709ec32c1f5cef9cdb467a072112b197b96a02/1DAW/ENTORNOS/TEMA3/INFORMES/IMAGENES/5.png" title="Figura 5"></p>
 
 ## 1.5 MODIFICACIÓN DE FICHEROS
 
@@ -72,6 +85,8 @@
 
 **<p align="center">git commit -m "Añadido los capítulos 3 y 4"</p>**
 
+<p align="center"><img src="https://github.com/jdabrante/CLASES/blob/55709ec32c1f5cef9cdb467a072112b197b96a02/1DAW/ENTORNOS/TEMA3/INFORMES/IMAGENES/6.png" title="Figura 6"></p>
+
 ## 1.6 HISTORIAL
 
 <p align="justify">En cuanto al historial se refiere, podremos visionar la última versión del repositorio con respecto a la anterior:
@@ -79,6 +94,11 @@
 
 **<p align="center">git show</p>**
 
+<p align="center"><img src="https://github.com/jdabrante/CLASES/blob/55709ec32c1f5cef9cdb467a072112b197b96a02/1DAW/ENTORNOS/TEMA3/INFORMES/IMAGENES/7.png" title="Figura 7"></p>
+
 <p align="justify">Por último se introducirá un commit donde se especifique que se ha añadido un capítulo, y se volverá a mostrar nuevamente los cambios del repositorio:</p>
 
 **<p align="center">git commit --amend -m "Añadido el capitulo sobre gestión de ramas al índice."</p>**
+
+
+<p align="center"><img src="https://github.com/jdabrante/CLASES/blob/55709ec32c1f5cef9cdb467a072112b197b96a02/1DAW/ENTORNOS/TEMA3/INFORMES/IMAGENES/8.png" title="Figura 8"></p>
